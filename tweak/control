@@ -1,0 +1,9 @@
+Package: com.example.ytlegacyfix
+Name: YTLegacyFix
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.1.0-6
+Architecture: iphoneos-arm
+Description: Revives the YouTube app on iOS 7-9 through a proxy server
+Maintainer: you
+Author: you
+Section: Tweaks
