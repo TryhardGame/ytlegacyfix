@@ -1,0 +1,16 @@
+Package: com.example.ytlegacyfix
+Version: 0.1.0-6-1+debug
+Architecture: iphoneos-arm
+Maintainer: you
+Installed-Size: 620
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.example.ytlegacyfix_0.1.0-6-1+debug_iphoneos-arm.deb
+Size: 97080
+MD5sum: 4f443cdac81e050e9e73ea43e5167ed6
+SHA1: 10a405b1acab70380ce9bfafb6232bdd473f14e5
+SHA256: 366a0d0dc51d4ea0ae87419a2934b8f1a55a826d8ce898f91515de2880ddd845
+Section: Tweaks
+Description: Revives the YouTube app on iOS 7-9 through a proxy server
+Author: you
+Name: YTLegacyFix
+
