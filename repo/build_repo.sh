@@ -34,7 +34,7 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: YouTube fixes for old iOS
+Description: Work on iOS 7 ONLY.
 REL
 
 echo "Repo built from $(basename "$latest"). Upload this folder to a static host."
